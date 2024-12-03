@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 from scipy.optimize import curve_fit
 import os
 
-#ciao sono mattia
+#ciao sono mattia, ciao Dr Mattia
 nomeFile = "C240920_0o5OD_1OD_orangeF_16K.txt"
 
 # array con [ nome campione, nome filtro colorato (ignorare) ]
